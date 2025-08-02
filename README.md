@@ -1,4 +1,5 @@
 # NTT DoCoMo 2006 emoji set
+<img width="746" height="512" alt="image" src="https://github.com/user-attachments/assets/216323c5-bc1c-450d-aad0-68035536132f" />
 
 Vectorizing and expanding the 2006-style NTT DoCoMo emoji set. According to [Emojipedia](https://emojipedia.org/docomo/2006), this particular set was developed from 2006 to 2008. A 2008 [emoji conversion table](https://web.archive.org/web/20090117122111/http://www.nttdocomo.co.jp/binary/pdf/service/mail/imode_mail/function/emoji_convert/pictogram.pdf) from DoCoMo lists 210 emojis from this set.
 
